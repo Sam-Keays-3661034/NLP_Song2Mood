@@ -1,0 +1,22 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# Jupyter artifacts
+.ipynb_checkpoints/
+
+# Local data/models/outputs
+NJU_MusicMood_v1.0/
+distilbert_musicmood/
+distilgpt2_output/
+
+# Editor/OS
+.DS_Store
+.vscode/
