@@ -120,6 +120,9 @@ src/MrCMS.Web/connectionstrings.json
 distilbert_musicmood/
 distilgpt2_output/
 distilroberta_musicmood/
+distilbert_model/
+distilbert/
+
 
 
 
